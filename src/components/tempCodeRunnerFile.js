@@ -1,0 +1,1 @@
+props.mode==='light'?'dark':'light
